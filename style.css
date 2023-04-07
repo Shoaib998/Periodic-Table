@@ -1,0 +1,22 @@
+
+           .main {
+               display: flex;
+               flex-direction: column;
+           }
+    
+           div.row {
+               display: flex;
+    
+           }
+    
+           div.col {
+    
+               width: 20px;
+               height: 15px;
+               background: whitesmoke;
+               border: 1px solid black;
+           }
+           .sec2{
+            display: flex;
+            width: 100;
+           }
